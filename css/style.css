@@ -70,7 +70,7 @@
   background: -o-linear-gradient(left, #7a5e86 0%, #a75e67 51%, #f77b2e 100%);
   background: -ms-linear-gradient(left, #7a5e86 0%, #a75e67 51%, #f77b2e 100%);
   background: -webkit-gradient(linear, left top, right top, from(#7a5e86), color-stop(51%, #a75e67), to(#f77b2e));
-  background: linear-gradient(to right, #7a5e86 0%, #a75e67 51%, #f77b2e 100%);
+  background: linear-gradient(to right, #000 0%,#ccc 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7a5e86', endColorstr='#f77b2e', GradientType=1 ); }
 
 .font-gray-1 {
